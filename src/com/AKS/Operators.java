@@ -15,5 +15,16 @@ public class Operators {
         int remainder = a%b;
         System.out.println(remainder); // operator "%"
 
+        //increment
+
+        int numb = 1;
+        numb++;
+        System.out.println(numb);
+        ++numb;
+        System.out.println(numb);
+        //decreament
+        numb--;
+        System.out.println(numb);
+
     }
 }
